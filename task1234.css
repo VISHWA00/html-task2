@@ -1,0 +1,29 @@
+figcaption
+{
+	font: aial;
+	font-size:.80cm;
+	color:black;
+}
+a:link
+{
+	color: #7D3C998;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited
+{
+	color:#17202A;
+	background-color:transparent;
+	text-decoration: underline;
+}
+a:active
+{
+	color:#17A589;
+	background-color:tanspaent;
+	text-decorration:underline;
+}
+p.link
+{
+	text-align: center;
+	font-size:20px;
+}
